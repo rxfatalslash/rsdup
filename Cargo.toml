@@ -1,0 +1,9 @@
+[package]
+name = "rsdup"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+indicatif = "0.17.9"
+sha256 = "1.5.0"
